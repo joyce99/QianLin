@@ -1,0 +1,25 @@
+----------------- Options ---------------
+               batch_size: 64                            
+                     cuda: True                          
+                   epochs: 15                            
+                      eta: 50.0                          
+                 evaluate: False                         
+                    gamma: 0.01                          
+                     lbsm: 0.01                          
+                     lmbd: 0.25                          
+             log_interval: 50                            
+                       lr: 0.001                         
+                     lr_f: 0.01                          
+                 momentum: 0.0                           
+                  no_cuda: False                         
+                num_layer: 2                             
+                 pretrain: None                          
+                     root:                               
+                save_path: save/drt                      
+                 schedule: [30, 60, 90]                  
+                     seed: 10                            
+                 src_path: Art_comb                      
+                 trg_path: Art                           
+                 val_path: Art                           
+                   weight: None                          
+----------------- End -------------------
